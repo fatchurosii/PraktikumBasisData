@@ -117,7 +117,7 @@ public class crud {
             penyewa.setNm_penyewa(rs.getString("NM_PENYEWA"));
             penyewa.setAlamat(rs.getString("ALAMAT"));
             penyewa.setNo_telp(rs.getString("NO_TELP"));
-            penyewa.setNo_kk(rs.getString("NO_KK"));
+            penyewa.setNo_kk(rs.getString("NIK"));
             this.arrPenyewa.add(penyewa);
         }
         return this.arrPenyewa;
@@ -131,7 +131,7 @@ public class crud {
             penyewa.setNm_penyewa(rs.getString("NM_PENYEWA"));
             penyewa.setAlamat(rs.getString("ALAMAT"));
             penyewa.setNo_telp(rs.getString("NO_TELP"));
-            penyewa.setNo_kk(rs.getString("NO_KK"));
+            penyewa.setNo_kk(rs.getString("NIK"));
             this.penyewa = penyewa;
         
         return this.penyewa;

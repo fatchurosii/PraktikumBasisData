@@ -1,0 +1,7 @@
+INSERT INTO FATCHURROSII06935.ADMIN (ID_ADMIN,USERNAME,PASSWORD) VALUES 
+(11,'paijo','1111')
+,(12,'paidi','2222')
+,(13,'paimo','3333')
+,(14,'gimo','4444')
+,(15,'paimen','5555')
+;

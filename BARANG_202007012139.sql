@@ -1,0 +1,12 @@
+INSERT INTO FATCHURROSII06935.BARANG (ID_BARANG,NM_BARANG,HARGA_SEWA,STOK) VALUES 
+(11,'Mobil',5,400000)
+,(12,'Motor',2,250000)
+,(13,'Jetpack',6,150000)
+,(14,'Buggy',1,450000)
+,(15,'Beyblade',4,10000)
+,(1,'Sepeda',400000,4)
+,(2,'Kapal',250000,3)
+,(3,'Naga',150000,2)
+,(4,'Teemo',450000,4)
+,(5,'Kartu',10000,2)
+;
